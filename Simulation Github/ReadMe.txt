@@ -1,3 +1,4 @@
+The name of the experiments closely follows the paper.
 The estimators in the paper refer to the following functions:
 
 IPW:std_ipw_did_rc.R (Abadie, 2005)
