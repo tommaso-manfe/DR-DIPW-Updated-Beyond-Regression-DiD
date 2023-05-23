@@ -4,4 +4,4 @@ Cross-Sections Under Compositional Changes" which compares new semi-parametric e
 
 The folder is organized as follows:
 - "Simulations Guthub": the coding material of the Monte Carlo simulations in the paper. The experiments are named following the paper and they are run through sbatch for    computational purposes.
-- "Application Guthub": the coding material of the replication of the paper "Corruption, trade costs, and gains from tariff liberalization: Evidence from southern africa" of Siqueira (2016) where new estimation methods are employed.
+- "Application Guthub": the coding material of the replication of the paper "Corruption, trade costs, and gains from tariff liberalization: Evidence from southern africa" of Sequeira (2016) where new estimation methods are employed.
